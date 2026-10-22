@@ -1,0 +1,15 @@
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\bin\Debug\net10.0\SISSI_IA.Application.deps.json
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\bin\Debug\net10.0\SISSI_IA.Application.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\bin\Debug\net10.0\SISSI_IA.Application.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\bin\Debug\net10.0\SISSI_IA.Domain.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\bin\Debug\net10.0\SISSI_IA.Domain.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.csproj.AssemblyReference.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.AssemblyInfoInputs.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.AssemblyInfo.cs
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.csproj.CoreCompileInputs.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.671F5307.Up2Date
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\refint\SISSI_IA.Application.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\SISSI_IA.Application.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Application\obj\Debug\net10.0\ref\SISSI_IA.Application.dll

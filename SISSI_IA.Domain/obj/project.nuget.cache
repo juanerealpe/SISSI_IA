@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "RNNkluPBOL4=",
+  "success": true,
+  "projectFilePath": "C:\\JEAL\\PRJ\\SVNSissi_IA\\src\\SISSI_IA.Domain\\SISSI_IA.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\9.0.0-preview.9.24525.1\\microsoft.extensions.ai.abstractions.9.0.0-preview.9.24525.1.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\9.0.0-preview.1.24523.1\\microsoft.extensions.vectordata.abstractions.9.0.0-preview.1.24523.1.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.semantickernel.abstractions\\1.30.0\\microsoft.semantickernel.abstractions.1.30.0.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\microsoft.semantickernel.core\\1.30.0\\microsoft.semantickernel.core.1.30.0.nupkg.sha512",
+    "C:\\Users\\User C360\\.nuget\\packages\\system.numerics.tensors\\8.0.0\\system.numerics.tensors.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1904",
+      "level": "Warning",
+      "message": "El paquete \"Microsoft.SemanticKernel.Core\" 1.30.0 tiene una vulnerabilidad de gravedad crítica conocida, https://github.com/advisories/GHSA-2ww3-72rp-wpp4",
+      "projectPath": "C:\\JEAL\\PRJ\\SVNSissi_IA\\src\\SISSI_IA.Domain\\SISSI_IA.Domain.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\JEAL\\PRJ\\SVNSissi_IA\\src\\SISSI_IA.Domain\\SISSI_IA.Domain.csproj",
+      "libraryId": "Microsoft.SemanticKernel.Core",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

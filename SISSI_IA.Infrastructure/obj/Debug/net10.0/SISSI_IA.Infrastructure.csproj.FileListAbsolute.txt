@@ -1,0 +1,17 @@
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Infrastructure.deps.json
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Infrastructure.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Infrastructure.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Application.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Domain.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Domain.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\bin\Debug\net10.0\SISSI_IA.Application.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.csproj.AssemblyReference.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.AssemblyInfoInputs.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.AssemblyInfo.cs
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.32A3EA90.Up2Date
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\refint\SISSI_IA.Infrastructure.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\SISSI_IA.Infrastructure.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Infrastructure\obj\Debug\net10.0\ref\SISSI_IA.Infrastructure.dll

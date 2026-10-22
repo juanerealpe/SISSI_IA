@@ -1,0 +1,13 @@
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\bin\Debug\net10.0\SISSI_IA.Domain.deps.json
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\bin\Debug\net10.0\SISSI_IA.Domain.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\bin\Debug\net10.0\SISSI_IA.Domain.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.csproj.AssemblyReference.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.AssemblyInfoInputs.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.AssemblyInfo.cs
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.csproj.CoreCompileInputs.cache
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\refint\SISSI_IA.Domain.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.Domain.pdb
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\ref\SISSI_IA.Domain.dll
+C:\JEAL\PRJ\SVNSissi_IA\src\SISSI_IA.Domain\obj\Debug\net10.0\SISSI_IA.8D3AE681.Up2Date

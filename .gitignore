@@ -1,0 +1,6 @@
+SISSI_IA.WebApi/bin/
+SISSI_IA.WebApi/obj/
+*.db
+*.db-shm
+*.db-wal
+*.json
